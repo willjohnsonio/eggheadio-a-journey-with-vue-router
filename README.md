@@ -1,6 +1,8 @@
 
 Community notes for Laurie Barth's A Jouney with Vue-Router egghead course
 
+<p align="center"><img src="VueRouter.png" width="200"></p>
+
 # egghead.io A Journey With Vue Router Course Notes
 
 
