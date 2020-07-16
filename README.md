@@ -1,3 +1,5 @@
+<h1 align="center"><a href="https://github.com/eggheadio/eggheadio-course-notes">:warning: notes have been moved to eggheadio-course-notes!</a></h1>
+
 
 # egghead.io A Journey With Vue Router Course Notes
 
